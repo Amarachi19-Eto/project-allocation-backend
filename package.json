@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "backend",
   "version": "1.0.0",
   "description": "",
@@ -24,3 +24,4 @@
     "nodemon": "^3.1.10"
   }
 }
+
