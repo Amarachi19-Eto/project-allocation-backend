@@ -1,7 +1,7 @@
 ﻿const express = require('express');
 const cors = require('cors');
 const dotenv = require('dotenv');
-const { testDatabase } = require('./models');
+const { testDatabase } = require('./models/index');
 
 // Load environment variables
 dotenv.config();
