@@ -1,4 +1,5 @@
-const { sequelize } = require('../config/database');
+const database = require('../config/database');
+const sequelize = database.sequelize;
 
 // Import all models
 const User = require('./User');
